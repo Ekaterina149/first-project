@@ -1,0 +1,65 @@
+
+@font-face {
+    font-family: DS Eraser Cyr;
+  src: url("../fonts/ds-eraser-cyr.woff2") format("woff2"), url("../fonts/ds-eraser-cyr.woff") format("woff");
+}
+body {
+  font-size: 120%;
+  background: url("./images/pumpkin.jpg") repeat;
+  margin: 0;
+  padding: 0;
+  
+}
+header, h1, h2, h3 { font-family: DS Eraser Cyr; }
+h1, h2, h3 { width: 25%;
+text-align: center;
+color: #ffffff;
+margin: 50px auto;
+border-radius: 30px;
+background: linear-gradient(90deg, #bf7f1f, #3c3831); }
+header {  text-align: left;}
+
+  p {font-family: Segoe Script;
+  margin: 50px auto;
+  border-radius: 15px;
+  background: radial-gradient(circle  at  top center , #f3c395, #ff7b00);
+  }
+  footer {
+      width: 15%;
+      font-size: 80%;
+      text-align: right;
+  font-weight: bold;
+  }
+/* header { width: auto;
+margin: 5% auto;
+border: 2px solid #000;}
+header > div { width: 15%; 
+  margin: 2px auto;
+padding: 15px auto;
+border: 2px solid #000;
+box-shadow: 5px 4px 10px 15px #0c0;}
+header > img { width: 128px;
+border: 2px solid #000;
+margin: 5px 700px;
+}
+h1,h3 { text-align: center;
+color: #a35623;}
+ul { width: 50%;
+margin:10px auto;
+list-style-type: none;
+list-style-image: url("../images/free-icon-marker-7104363.png");
+border: 2px solid #000;
+
+}
+a {text-decoration: none;}
+a:hover {
+  font-size: 150%;
+  color: #c00;
+}
+footer { border: 2px solid #000;
+margin: 80% auto 5% auto }
+footer > p { margin: 15px auto;
+text-align: center;
+border: 2px solid #000;
+} */
+/*li {margin:1px auto;}*/
